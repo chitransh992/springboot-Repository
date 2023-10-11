@@ -1,1 +1,0 @@
-# This is a Blogging application using spring boot
